@@ -25,7 +25,7 @@ plugins:
 author:
   name: "Lester Guerzon"
   avatar: "/assets/images/pidnull-avatar.png"
-  bio: "k8s, cloud, golang, and security ramblings of a recovering sysadmin. SRE wannabe."
+  bio: "security ramblings of a recovering sysadmin. SRE wannabe."
   location: "the interwebs"
   links:
     - label: "GitHub"
