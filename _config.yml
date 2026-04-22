@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "dark"
 description: >-
-  k8s, cloud, golang, and security ramblings of a recovering sysadmin. SRE wannabe.
+  security ramblings of a recovering sysadmin. SRE wannabe.
 domain: guerzon.net
 url: "https://guerzon.net"
 repository: guerzon/guerzon.net
