@@ -3,8 +3,4 @@ layout: home
 author_profile: true
 ---
 
-Welcome to my blog!
-
-My name is Lester, a server systems engineer passionate about Linux systems, DevOps tooling, Kubernetes, security, public cloud, and open source. I (re)started this blog to document the fun and challenging things I learned.
-
-I hope this reaches those who share the same interests as mine! Enjoy reading!
+Hey there, I'm Lester. I work with server systems and spend probably too much time messing around in my homelab. This is where I dump the random stuff I learn, break, fix, and occasionally figure out. Mostly Linux, security, DevOps, and whatever else catches my attention. Hopefully something here is useful to you too!
