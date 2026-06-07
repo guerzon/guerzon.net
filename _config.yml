@@ -37,6 +37,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lester@guerzon.net"
+    - label: "GPG key"
+      icon: "fa fa-fw fa-key"
+      url: "https://keys.openpgp.org/vks/v1/by-fingerprint/40AC446EED463B0DB97AC0892E9F2C23E2A4CD8D"
 
 # Defaults
 defaults:
