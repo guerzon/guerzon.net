@@ -39,7 +39,7 @@ author:
       url: "mailto:lester@guerzon.net"
     - label: "GPG key"
       icon: "fa fa-fw fa-key"
-      url: "https://keys.openpgp.org/vks/v1/by-fingerprint/40AC446EED463B0DB97AC0892E9F2C23E2A4CD8D"
+      url: "https://keys.openpgp.org/vks/v1/by-fingerprint/0486D852D6E3E426A544D26E9B331E5C9B3C17FC"
 
 # Defaults
 defaults:
