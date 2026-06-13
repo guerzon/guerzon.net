@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "dark"
 description: >-
-  security ramblings of a recovering sysadmin. SRE wannabe.
+  Linux homelab, random howtos, HTB writeups and more
 domain: guerzon.net
 url: "https://guerzon.net"
 repository: guerzon/guerzon.net
