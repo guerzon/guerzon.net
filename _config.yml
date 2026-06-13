@@ -39,7 +39,7 @@ author:
       url: "mailto:lester@guerzon.net"
     - label: "GPG key"
       icon: "fa fa-fw fa-key"
-      url: "https://keys.openpgp.org/search?q=58236F5401BA8207963DAA4716B123E6B0005AB7"
+      url: "https://keys.openpgp.org/search?q=107B6026A82D044C97D7D8B92100C145E0F3655E"
 
 # Defaults
 defaults:
